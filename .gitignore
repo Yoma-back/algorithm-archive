@@ -1,0 +1,12 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# 컴파일된 파일
+*.class
+out/
+target/
+
+# Windows
+Thumbs.db
+desktop.ini
